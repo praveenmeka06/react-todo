@@ -13,8 +13,11 @@ Before you start, make sure you have the following installed:
 
 1. **Clone the Repository**
 
+   ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+   ```
 
 2. **Install the dependencies**
 
